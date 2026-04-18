@@ -62,7 +62,7 @@ Conformance with The Collegius Standard requires that the Collegius's architectu
 
 ## The specification
 
-[`collegius-standard-0_1_6.md`](collegius-standard-0_1_6.md), v0.1.6, 2026-04-18.
+[`collegius-standard-0_1_7.md`](collegius-standard-0_1_7.md), v0.1.6, 2026-04-18.
 
 The specification covers six sections: what a Collegius is, the interface specification (what a Collegius exposes to funders and why), internal coordination requirements, how the Collegius's architecture maps to the Coordination Structural Integrity Suite standards, conformance legibility requirements, and open questions at this version.
 
